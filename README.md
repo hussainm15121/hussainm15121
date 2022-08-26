@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Hussain 👋</h1>
 
-- <i>Currently:</i>Cyber Security Intern at OSN
+- <i>Currently:</i> Cyber Security Intern at OSN
 
 - <i>Previously:</i> BSc Cyber Security student at Curtin University Dubai
 
