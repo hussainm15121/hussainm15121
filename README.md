@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Hussain 👋
 
 - 🔭 I’m currently working on my final year project (BBPS)
 - 🌱 I’m currently learning Blockchain development
